@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="false">BSEB Library: Books, Videos, QPs</string>
+
+    <string name="google">Continue with Google</string>
+    <string name="facebook">Continue with Facebook</string>
+    <string name="welcome_message">Welcome To BSEB Library</string>
+    <string name="message">BSEB Library Android application is developed to help the students studying under Bihar School Examination Board</string>
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="bseb_library">BSEB Library</string>
+
+    //For facebook authentication some string
+    <string name="facebook_app_id">1408434172927708</string>
+    <string name="fb_login_protocol_scheme">fb1408434172927708</string>
+    <string name="facebook_client_token">afd5a285f47f1ba7d5aba5afef329483</string>
+
+
+    <string name="title_activity_hindi_books">Hindi Medium Books</string>
+    <string name="action_settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="aboutus">BSEB Library Android application is developed to help the students studying under Bihar School Examination Board. This app provide the various features which students can use in their studies or academic.</string>
+    <string name="communication">Communication</string>
+</resources>

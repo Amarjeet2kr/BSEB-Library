@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/drawable/btn_img_bg.xml" value="0.1" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/drawable/english_medium_gradient.xml" value="0.1" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/drawable/gradient_english_medium.xml" value="0.14" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/drawable/gradient_hindi_medium.xml" value="0.14" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/drawable/gradient_previous_year_question.xml" value="0.1" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/drawable/gradient_urdu_medium.xml" value="0.14" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/drawable/hindi_medium_gradient.xml" value="0.1" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.128" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/drawable/ic_baseline_library_books_24.xml" value="0.137" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.186" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.15" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/drawable/ic_baseline_menu_book_24.xml" value="0.1" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/drawable/ic_baseline_people_alt_24.xml" value="0.15" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.15" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/drawable/ic_baseline_text_snippet_24.xml" value="0.137" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/drawable/ic_baseline_video_library_24.xml" value="0.1" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/drawable/ic_facebook.xml" value="0.1" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/drawable/ic_google.xml" value="0.188" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/drawable/urdu_medium_gradient.xml" value="0.1" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/drawable/videos_tutorial_gradient.xml" value="0.1" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_dashboard.xml" value="0.264" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_english_medium_books.xml" value="0.25" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_english_medium_question_paper.xml" value="0.2453125" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_english_medium_video.xml" value="0.2453125" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_hindi_books.xml" value="0.16" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_hindi_medium_book_class1.xml" value="0.259375" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_hindi_medium_book_class10.xml" value="0.176" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_hindi_medium_book_class11.xml" value="0.176" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_hindi_medium_book_class12.xml" value="0.176" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_hindi_medium_book_class2.xml" value="0.259375" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_hindi_medium_book_class3.xml" value="0.259375" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_hindi_medium_book_class4.xml" value="0.259375" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_hindi_medium_book_class5.xml" value="0.259375" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_hindi_medium_book_class6.xml" value="0.259375" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_hindi_medium_book_class7.xml" value="0.259375" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_hindi_medium_book_class8.xml" value="0.259375" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_hindi_medium_book_class9.xml" value="0.259375" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_hindi_medium_books.xml" value="0.16799999999999998" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_hindi_medium_class12.xml" value="0.259375" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_hindi_medium_question_paper.xml" value="0.20923913043478262" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_hindi_medium_question_paper_class10.xml" value="0.259375" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_hindi_medium_question_paper_class11.xml" value="0.259375" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_hindi_medium_question_paper_class12.xml" value="0.2453125" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_hindi_medium_video.xml" value="0.152" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_hindi_medium_video_class12.xml" value="0.2453125" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_home.xml" value="0.24230072463768115" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_main.xml" value="0.259375" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_pdf_web_view.xml" value="0.16" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_sign_in.xml" value="0.264" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_urdu_medium_books.xml" value="0.259375" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_urdu_medium_question_paper.xml" value="0.259375" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_urdu_medium_video.xml" value="0.2453125" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/activity_you_tube_web_view.xml" value="0.259375" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/content_scrolling.xml" value="0.24230072463768115" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/fragment_about_us.xml" value="0.264" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/fragment_books.xml" value="0.17889492753623187" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/fragment_contributors.xml" value="0.1279128672745694" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/fragment_hindi_books.xml" value="0.18385416666666668" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/fragment_home.xml" value="0.176" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/fragment_videos.xml" value="0.17889492753623187" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/nav_header.xml" value="0.264" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/layout/title_bar.xml" value="0.259375" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/menu/bottom_menu.xml" value="0.1" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/menu/menu_books.xml" value="0.259375" />
+        <entry key="..\:/CodeWithAmar/Android/BSEBLibrary/app/src/main/res/menu/nav_menu.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

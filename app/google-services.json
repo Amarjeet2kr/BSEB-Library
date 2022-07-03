@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "576505960238",
+    "project_id": "bseb-library",
+    "storage_bucket": "bseb-library.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576505960238:android:7634fb125299d6fe3b0cbf",
+        "android_client_info": {
+          "package_name": "com.amarjeet.bseblibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576505960238-98626clkd84hvij1ssrl6r7bi5cn7i40.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amarjeet.bseblibrary",
+            "certificate_hash": "f59daf52ea0712eb4b33e83876fe1c5312813789"
+          }
+        },
+        {
+          "client_id": "576505960238-7jthsmh2t4qdm6p7390bf38f2scfbj3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXb_r3nbDZqf97uUlbtawwY18e6EewfQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576505960238-7jthsmh2t4qdm6p7390bf38f2scfbj3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

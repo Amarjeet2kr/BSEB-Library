@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"
+        tools:ignore="HardcodedText" />
+
+    <item
+        android:id="@+id/nav_contributors"
+        android:icon="@drawable/ic_baseline_people_alt_24"
+        android:title="Contributors"
+        tools:ignore="HardcodedText" />
+
+
+
+    <item android:title="Communicate"
+        tools:ignore="HardcodedText">
+        <menu>
+            <item
+                android:id="@+id/nav_share_app"
+                android:icon="@drawable/ic_baseline_share_24"
+                android:title="Share App"/>
+
+            <item
+                android:id="@+id/nav_rate_us"
+                android:icon="@drawable/ic_baseline_star_rate_24"
+                android:title="Rate Us"/>
+
+<!--            <item-->
+<!--                android:id="@+id/nav_feedback"-->
+<!--                android:icon="@drawable/ic_baseline_feedback_24"-->
+<!--                android:title="Send Feedback"/>-->
+        </menu>
+
+    </item>
+
+    <item
+        android:id="@+id/about_us"
+        android:icon="@drawable/ic_baseline_contact_support_24"
+        android:title="About Us"/>
+
+    <item android:title="Profile"
+        tools:ignore="HardcodedText">
+        <menu>
+            <item
+                android:id="@+id/log_out"
+                android:icon="@drawable/ic_baseline_login_24"
+                android:title="Logout"/>
+        </menu>
+    </item>
+
+</menu>
